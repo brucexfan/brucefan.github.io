@@ -11,15 +11,18 @@ function Home() {
 
   return (
     <div className="home">
-      <h1>Bruce Fan</h1>
+      <h1>Adam Zweiger</h1>
       <div className="bio-container">
         <div className="profile-pic-container">
-          <img src="/bruce.png" alt="Bruce Fan" className="profile-pic" />
+          <img src="/me.jpg" alt="Adam Zweiger" className="profile-pic" />
         </div>
         <div className="bio">
           <p>
-            Passionate and aspiring computer science major at the University of Texas at Austin, with a strong foundation in application development and quantitative
-reasoning. Demonstrated history of academic excellence and innovative project development.
+            Hey! I'm sophomore at MIT studying CS (Course 6-3), interested in NLP and reasoning. 
+            Currently, I'm working on two research projects related to test-time scaling.
+            Previously, I've competed in olympiads in math, physics, and computing, studied a bit of pure math, and interned at AWS. 
+            I'm also part of the HackMIT team, hoping to support tech innovation.
+            Outside of academics, I love climbing, badminton, and tennis.
           </p> 
         </div>
       </div>
@@ -39,7 +42,7 @@ reasoning. Demonstrated history of academic excellence and innovative project de
             )}
           </span>
         </div>
-        {/* <a href="https://www.linkedin.com/in/bruce-fan-9816a0200/" className="contact-link">
+        {/* <a href="https://www.linkedin.com/in/adam-zweiger-1b2b80200/" className="contact-link">
           <FaLinkedin className="contact-icon" />
           <span className="contact-text">LinkedIn</span>
         </a> */}
