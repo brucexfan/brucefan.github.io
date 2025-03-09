@@ -1,9 +1,9 @@
 {
-  "name": "adamz",
+  "name": "brucefan",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://adamzweiger.github.io",
+  "homepage": "https://brucexfan.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
